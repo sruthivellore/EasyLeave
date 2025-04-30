@@ -20,25 +20,6 @@
   Users receive feedback on successful actions.
 
 ---
-
-## 🖼️ Demo Images
-
-Below are screenshots of EasyLeave in action, showcasing the main features and user interface:
-
-![SignUp Page](demo-images/1.jpg "SignUp Page")
-![Login Page](demo-images/2.png "Login Page")
-![Employee Dashboard](demo-images/3.jpg "Employee Dashboard")
-![Change Password](demo-images/4.jpg "Change Password")
-![Leave Application Page](demo-images/5.jpg "Leave Application Page")
-![Leave History](demo-images/6.jpg "Leave History")
-![Manager Dashboard](demo-images/8.jpg "Manager Dashboard")
-![Add Departments](demo-images/9.jpg "Add Departments")
-![Employee Information](demo-images/10.jpg "Employee Information")
-![Leave Types](demo-images/11.jpg "Leave Types")
-![Applications Submitted History](demo-images/12.jpg "Applications Submitted History")
-
----
-
 ## 🗂️ Project Structure
 
 ```
@@ -102,6 +83,24 @@ EasyLeave/
   Can sign up, log in, apply for leave, and view leave status.
 - **Admin:**  
   Can log in, view all leave requests, approve or reject them.
+
+---
+
+## 🖼️ Demo Images
+
+Below are screenshots of EasyLeave in action, showcasing the main features and user interface:
+
+![SignUp Page](demo-images/1.jpg "SignUp Page")
+![Login Page](demo-images/2.png "Login Page")
+![Employee Dashboard](demo-images/3.jpg "Employee Dashboard")
+![Change Password](demo-images/4.jpg "Change Password")
+![Leave Application Page](demo-images/5.jpg "Leave Application Page")
+![Leave History](demo-images/6.jpg "Leave History")
+![Manager Dashboard](demo-images/8.jpg "Manager Dashboard")
+![Add Departments](demo-images/9.jpg "Add Departments")
+![Employee Information](demo-images/10.jpg "Employee Information")
+![Leave Types](demo-images/11.jpg "Leave Types")
+![Applications Submitted History](demo-images/12.jpg "Applications Submitted History")
 
 ---
 
