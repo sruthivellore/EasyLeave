@@ -25,11 +25,11 @@
 
 Below are screenshots of EasyLeave in action, showcasing the main features and user interface:
 
-![Home/Login Page](demo-images/1.png)
+![Home/Login Page](demo-images/1.jpg)
 ![Employee Dashboard](demo-images/2.png)
-![Leave Application Form](demo-images/3.png)
-![Admin Dashboard](demo-images/4.png)
-![Leave Approval/Status Page](demo-images/5.png)
+![Leave Application Form](demo-images/3.jpg)
+![Admin Dashboard](demo-images/4.jpg)
+![Leave Approval/Status Page](demo-images/5.jpg)
 
 ---
 
