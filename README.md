@@ -25,29 +25,17 @@
 
 Below are screenshots of EasyLeave in action, showcasing the main features and user interface:
 
-![Home/Login Page](demo-images/1.jpg)
-![Employee Dashboard](demo-images/2.png)
-![Leave Application Form](demo-images/3.jpg)
-![Admin Dashboard](demo-images/4.jpg)
-![Leave Approval/Status Page](demo-images/5.jpg)
-![Leave Approval/Status Page](demo-images/6.jpg)
-### 7
-!(demo-images/7.jpg)
-
-### 8
-!(demo-images/8.jpg)
-
-### 9
-!(demo-images/9.jpg)
-
-### 10
-!(demo-images/10.jpg)
-
-### 11
-!(demo-images/11.jpg)
-
-### 12
-!(demo-images/12.jpg)
+![SignUp Page](demo-images/1.jpg "SignUp Page")
+![Login Page](demo-images/2.png "Login Page")
+![Employee Dashboard](demo-images/3.jpg "Employee Dashboard")
+![Change Password](demo-images/4.jpg "Change Password")
+![Leave Application Page](demo-images/5.jpg "Leave Application Page")
+![Leave History](demo-images/6.jpg "Leave History")
+![Manager Dashboard](demo-images/8.jpg "Manager Dashboard")
+![Add Departments](demo-images/9.jpg "Add Departments")
+![Employee Information](demo-images/10.jpg "Employee Information")
+![Leave Types](demo-images/11.jpg "Leave Types")
+![Applications Submitted History](demo-images/12.jpg "Applications Submitted History")
 
 ---
 
