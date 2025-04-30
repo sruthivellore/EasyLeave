@@ -30,6 +30,24 @@ Below are screenshots of EasyLeave in action, showcasing the main features and u
 ![Leave Application Form](demo-images/3.jpg)
 ![Admin Dashboard](demo-images/4.jpg)
 ![Leave Approval/Status Page](demo-images/5.jpg)
+![Leave Approval/Status Page](demo-images/6.jpg)
+### 7
+!(demo-images/7.jpg)
+
+### 8
+!(demo-images/8.jpg)
+
+### 9
+!(demo-images/9.jpg)
+
+### 10
+!(demo-images/10.jpg)
+
+### 11
+!(demo-images/11.jpg)
+
+### 12
+!(demo-images/12.jpg)
 
 ---
 
